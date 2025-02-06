@@ -2,7 +2,7 @@
 //Visão Geral
 
 //Este sistema permite o gerenciamento de usuários, agendamento de coletas e geração de comprovantes. O sistema possui funcionalidades para administradores e usuários comuns.
-// A interface gráfica é feita com a biblioteca Swing do Java, permitindo uma interação simples e intuitiva.
+// A interface gráfica é feita com a biblioteca Swing do Java, permitindo uma interação simples e intuitiva. OBS: a interface é provisoria 
 //Estrutura do Projeto
 
 //O projeto está dividido em três classes principais:
